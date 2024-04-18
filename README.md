@@ -1,0 +1,2 @@
+# Bug_classification_based_on_BiGRU
+基于BiGRU的简单Bug分类
